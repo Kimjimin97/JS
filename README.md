@@ -32,7 +32,7 @@ HTML Collection과 NodeList의 ChildNodes는 의도와 live 객체임으로 동�
 차이점을 알면 존재 이유가 궁금해 진다.
 존재 이유를 알면 필요한 기능에 대한 적절한 메서드를 활용해서 사용할 수 있다.
 
-## nodeVlaue, textContent 프로퍼티 보다 복잡하는데 돼 존재할까?
+## nodeVlaue, textContent 프로퍼티 보다 복잡하는데  존재할까?
 파싱된 텍스트 노드에 따로 접근할 수 있다.
 textContent는 모든 텍스트의 값을 텍스트로 모두 반환한다.
 접근은 textContent가 쉽다.
